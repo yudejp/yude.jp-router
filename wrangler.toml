@@ -1,0 +1,8 @@
+name = "yude-jp-routing"
+type = "javascript"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = "ceb43c58441b0344d02afb7307382c75"
+compatibility_date = "2022-05-08"
