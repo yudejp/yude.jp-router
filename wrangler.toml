@@ -1,7 +1,7 @@
 name = "yude-jp-routing"
 type = "javascript"
 
-account_id = ""
+account_id = "996274e995fd60596f330964c55997cc"
 workers_dev = true
 route = ""
 zone_id = "ceb43c58441b0344d02afb7307382c75"
